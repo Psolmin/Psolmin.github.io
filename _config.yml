@@ -40,11 +40,11 @@ disqus_shortname:   taylantatli
 email:              bowwow1994@hanmail.net
 #twitter:           username
 #facebook:          username
-github-url:         github.com/psolmin
+github-url:         psolmin
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          psol
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -61,7 +61,7 @@ instagram:          username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-backjun:            https://www.acmicpc.net/user/bowwow1994
+backjun:            bowwow1994
 
 # Gems
 gems:
