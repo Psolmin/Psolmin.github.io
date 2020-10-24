@@ -1,26 +1,16 @@
 ---
 layout: page
-title: About the Theme
+title: About Psolmin
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2020-10-25
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>박솔민의 개인 개발 블로그입니다.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
+## Language
+* a
+## Skill
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
