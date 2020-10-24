@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About Psolmin
+title: About The Psolmin
 tags: [about, Jekyll, theme, moon]
 date: 2020-10-25
 comments: false
 ---
     
-<center>박솔민의 개인 개발 블로그입니다.</center>
+<center>개인 개발 블로그로 포트폴리오, 알고리즘, 공부에 대해 작성합니다.</center>
 
 ## Language
-* a
+* C++
+* Java
+* Python
+
 ## Skill
 
 {% capture images %}
