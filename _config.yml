@@ -1,6 +1,6 @@
 # Site
 title:              Psolmin
-bio:                'Psolmin, about Portfolio, Algorithm, Study.'
+bio:                '박솔민, 개인 개발 블로그입니다.'
 description:        "About Portfolio, Algorithm, Study."
 reading_time:       true
 words_per_minute:   200
@@ -44,7 +44,8 @@ github-url:         psolmin
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          psol
+instagram:          psolm
+backjun:            "https://www.acmicpc.net/user/bowwow1994"
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -61,7 +62,7 @@ instagram:          psol
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-backjun:            bowwow1994
+
 
 # Gems
 gems:
